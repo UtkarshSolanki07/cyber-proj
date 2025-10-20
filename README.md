@@ -6,7 +6,7 @@
 
 > An interactive, educational tool for analyzing password security, simulating attacks, and learning best practices in cybersecurity.
 
-![Password Security Suite Demo](https://utkarshsolanki07-cyber-proj-password-check-1fnuwa.streamlit.app/)
+Website Demo- https://utkarshsolanki07-cyber-proj-password-check-1fnuwa.streamlit.app/
 
 ## 🌟 Features
 
