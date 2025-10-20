@@ -448,6 +448,10 @@ def tab_attack_simulator(hash_algo, salt_value, attack_speed):
                 with st.spinner(f"🔄 Running {attack_type}..."):
                     progress_bar = st.progress(0)
 
+                    # Set default values for brute force parameters
+                    max_length = 4  # Default value
+                    charset_type = "lowercase+digits"  # Default value
+    
                     if attack_type == "🔍 Dictionary Attack":
                         success, cracked_pw, attempts, elapsed, aps = dictionary_attack(
                             target_hash, hash_algo, salt_value, max_attempts
