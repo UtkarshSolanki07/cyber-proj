@@ -2,11 +2,11 @@
 
 [![Python](https://img.shields.io/badge/Python-3.8+-blue.svg)](https://www.python.org/)
 [![Streamlit](https://img.shields.io/badge/Streamlit-1.0+-red.svg)](https://streamlit.io/)
-[![GitHub stars](https://img.shields.io/github/stars/yourusername/password-security-suite?style=social)](https://github.com/yourusername/password-security-suite)
+
 
 > An interactive, educational tool for analyzing password security, simulating attacks, and learning best practices in cybersecurity.
 
-![Password Security Suite Demo](https://via.placeholder.com/800x400/4CAF50/FFFFFF?text=Password+Security+Suite+Demo)
+![Password Security Suite Demo](https://utkarshsolanki07-cyber-proj-password-check-1fnuwa.streamlit.app/)
 
 ## 🌟 Features
 
