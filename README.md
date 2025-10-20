@@ -50,8 +50,8 @@ Website Demo- https://utkarshsolanki07-cyber-proj-password-check-1fnuwa.streamli
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/password-security-suite.git
-   cd password-security-suite
+   git clone https://github.com/UtkarshSolanki07/cyber-proj.git
+   cd cyber-proj
    ```
 
 2. **Install dependencies**
@@ -111,14 +111,13 @@ Generate secure passwords with custom requirements:
 
 ## 📊 Sample Screenshots
 
-### Main Dashboard
-![Main Interface](https://via.placeholder.com/600x300/2196F3/FFFFFF?text=Main+Dashboard)
 
 ### Strength Analysis
-![Strength Checker](https://via.placeholder.com/600x300/FF9800/FFFFFF?text=Strength+Analysis)
+![Strength Checker]<img width="1919" height="972" alt="image" src="https://github.com/user-attachments/assets/5d631d90-61d9-46a9-bbcd-bad346057b96" />
 
 ### Attack Simulation
-![Attack Simulator](https://via.placeholder.com/600x300/DC3545/FFFFFF?text=Attack+Simulation)
+![Attack Simulator]<img width="1875" height="1004" alt="image" src="https://github.com/user-attachments/assets/cc300201-ee66-4065-bd45-2c0b37cbd42c" />
+
 
 ## 🔧 Configuration Options
 
@@ -140,18 +139,6 @@ The suite includes comprehensive educational content covering:
 - Defense strategies and countermeasures
 - Real-world breach analysis
 - Industry best practices
-
-## 🤝 Contributing
-
-We welcome contributions! Please see our [Contributing Guidelines](CONTRIBUTING.md) for details.
-
-1. Fork the repository
-2. Create a feature branch (`git checkout -b feature/amazing-feature`)
-3. Commit your changes (`git commit -m 'Add amazing feature'`)
-4. Push to the branch (`git push origin feature/amazing-feature`)
-5. Open a Pull Request
-
-## ⚠️ Disclaimer
 
 **Educational Purpose Only**
 This tool is designed for educational and research purposes to demonstrate password security concepts. It should not be used for unauthorized access attempts or any malicious activities. Always respect privacy and legal boundaries when conducting security research.
